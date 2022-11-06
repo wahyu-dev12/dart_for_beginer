@@ -7,7 +7,7 @@ void main(List<String> args) {
     if (mahasiswa == 4) {
       print('mahasiswa ke $mahasiswa sedang berkuliah');
     }else{
-      print('mahasiswa ke $mahasiswa tidak sedang berkuliah');
+      print('mahasiswa ke $mahasiswa tidak sedang berkuliah sekarang');
     }
   };
 }
